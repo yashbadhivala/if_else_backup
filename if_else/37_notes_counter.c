@@ -4,7 +4,7 @@ int main(){
 
     int amt ,note;
     printf("enter amt :");
-    scanf("%d",&note);
+    scanf("%d",&amt);
 
     if(amt >= 500){
         note = amt / 500;
