@@ -16,7 +16,7 @@ int main(){
     }
 
     else if (unit <= 250){
-        bill=100 +(unit - 50)* 1.20;
+        bill=100 +(unit - 150)* 1.20;
     }
 
     else if(unit>=250){
